@@ -1,6 +1,8 @@
 # UTS-pengolah-citra-
 Nama  : Anzela Hasan Thalia Putri
+
 Kelas : TI.19.C1 
+
 NIM   : 311910663 
 
 konversi RGB & Histogram 
